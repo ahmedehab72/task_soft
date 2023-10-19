@@ -6,16 +6,6 @@ const users = [
   ];
 
 
-
-  
-// users.forEach((item) => {
-//     if (item.age > 28) {
-//       console.log(item.name);
-//     }
-//   });
-
-
-  //////// 
 let arr= [] ;
 
 const funct=(item)=>{
